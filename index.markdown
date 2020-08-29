@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+![Fall](fallLeaves.jpg "Fall Leaves here")
